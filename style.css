@@ -222,6 +222,7 @@ ul li a {
     font-size: 16px;
     line-height: 1.75;
     font-weight: 400;
+<<<<<<< HEAD
 }
 
 /* My Amazing Works */
@@ -263,4 +264,6 @@ ul li a {
 }
 .box-6 {
     grid-area: six;
+=======
+>>>>>>> 106a81982eb52dbd547d20daa3787d251fe2c3d3
 }
