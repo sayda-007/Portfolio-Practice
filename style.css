@@ -222,10 +222,11 @@ ul li a {
     font-size: 16px;
     line-height: 1.75;
     font-weight: 400;
-<<<<<<< HEAD
 }
+/* What I Do Section End */
 
-/* My Amazing Works */
+
+/* My Amazing Works Start*/
 .my-amazing-parent{
     text-align: center;
 }
@@ -264,6 +265,34 @@ ul li a {
 }
 .box-6 {
     grid-area: six;
-=======
->>>>>>> 106a81982eb52dbd547d20daa3787d251fe2c3d3
+}
+/* My Amazing Works End*/
+
+/* Footer Starts */
+footer{
+    text-align: center;
+    margin-top: 70px !important;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    background-color:#fff8f3FF;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer form{
+    padding: 20px;
+}
+.footer-left p{
+    margin: 10px 0;
+}
+footer form input,footer form textarea{
+    outline: none;
+    border: none;
+    background-color: white;
+    padding: 8px 15px;
+    border-radius: 8px;
+    display: block;
+    width: 100%;
+    margin-bottom: 8px;
 }
